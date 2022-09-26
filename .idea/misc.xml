@@ -4,7 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/ApiKotlin/app/src/main/res/layout/activity_main.xml" value="0.24166666666666667" />
-        <entry key="..\:/ApiKotlin/app/src/main/res/layout/item_demo_view.xml" value="0.2" />
+        <entry key="..\:/ApiKotlin/app/src/main/res/layout/fragment_custom_bottom_sheet_dialog.xml" value="0.22760416666666666" />
+        <entry key="..\:/ApiKotlin/app/src/main/res/layout/fragment_demo.xml" value="0.2" />
+        <entry key="..\:/ApiKotlin/app/src/main/res/layout/fragment_demo2.xml" value="0.24166666666666667" />
+        <entry key="..\:/ApiKotlin/app/src/main/res/layout/fragment_demo_java.xml" value="0.22760416666666666" />
+        <entry key="..\:/ApiKotlin/app/src/main/res/layout/item_demo_view.xml" value="0.176" />
       </map>
     </option>
   </component>
